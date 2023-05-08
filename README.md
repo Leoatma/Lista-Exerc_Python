@@ -8,7 +8,7 @@
 
 &nbsp;
 
-## Esta lista é formada por 'sub'listas de exercícios, quais sejam:
+### Esta lista é formada por 'sub'listas de exercícios, quais sejam:
 
 &nbsp;
 
@@ -32,4 +32,4 @@
 
 &nbsp;
 
-### Em diretórios neste repositório estão organizadas as listas de cada um destes tópicos, onde estão incluídas as resoluções em código de cada exercício solucionado.
+##### Em diretórios neste repositório estão organizadas as listas de cada um destes tópicos(que irei adicionando), onde estão incluídas as resoluções em código de cada exercício solucionado.
